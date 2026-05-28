@@ -1,0 +1,2 @@
+../Core/Src/ADC.c:24:10:get_mcu_vdda	48	static
+../Core/Src/ADC.c:56:5:percentage_return	248	static

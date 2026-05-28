@@ -1,0 +1,7 @@
+../Core/Src/tsl2591.c:15:19:TSL2591_Init	2
+../Core/Src/tsl2591.c:48:6:TSL2591_ReadData	1
+../Core/Src/tsl2591.c:70:7:TSL2591_CalculateLux	5
+../Core/Src/tsl2591.c:99:7:TSL2591_Calibrate	2
+../Core/Src/tsl2591.c:123:7:TSL2591_GetOpticalDensity	4
+../Core/Src/tsl2591.c:185:19:TSL2591_Sleep	1
+../Core/Src/tsl2591.c:203:19:TSL2591_Wakeup	1
